@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string name="stats_err_load">Unable to load statistics</string>
+    <string name="main_page_title_0">Statistics</string>
+    <string name="main_page_title_1">Registration</string>
+    <string name="main_page_title_2">Search</string>
+    <string name="register_hint_name">Name</string>
+    <string name="register_hint_email">Email</string>
+    <string name="register_hint_phone">Mobile Number</string>
+    <string name="register_title_contact_information">Contact Information</string>
+    <string name="register_title_address">Address</string>
+    <string name="register_hint_address">Address</string>
+    <string name="register_hint_street">Street</string>
+    <string name="register_hint_city">City</string>
+    <string name="register_hint_state">State</string>
+    <string name="register_hint_country">Country</string>
+    <string name="register_btn_submit">Register</string>
+    <string name="register_title_blood_group">Blood Group</string>
+    <string name="register_err_field_required">This field is required</string>
+    <string name="register_spn_select">Select</string>
+    <string name="register_gender_male">Male</string>
+    <string name="register_gender_female">Female</string>
+    <string name="register_err_select_gender">Select Gender</string>
+    <string name="register_err_select_blood_grp">Select Blood Group</string>
+    <string name="register_success">Registration Successful</string>
+    <string name="register_err_failed">Registration failed. Please try again.</string>
+    <string name="search_hint_no_results">No Results</string>
+    <string name="search_contact_blood_donor">Contact Blood Donor</string>
+    <string name="search_err_get_failed">Unable to get search results</string>
+    <string name="search_details_dialog_title">Donor Details</string>
+    <string name="search_details_dialog_msg">Name: %1$s\nEmail: %2$s\nPhone: %3$s\nAddress: %4$s\nStreet: %5$s\nCity: %6$s\nState: %7$s\nCountry: %8$s\nBlood Group: %9$s</string>
+    <string name="registration_err_already_exists">Registration already exists for %s</string>
+</resources>
